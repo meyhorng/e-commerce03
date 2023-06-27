@@ -321,7 +321,8 @@
     </div>
 
   </div>
-  <footer>
+  <!-- <footer>
+
     <div class="container-fluid" style="background-color:#3741A6 ;">
         <div class="row">
             <div class="col-4">
@@ -357,7 +358,52 @@
             </div>
         </div>
     </div>
-  </footer>
+  </footer> -->
+
+  <footer>
+          <div class="footer_box">
+                <!-- <img src="../assets/images/logo.webp" alt="">
+                <p style="margin-left: 8px; color: #FF3399; font-weight: bold;">SHOSE SHOP</p>
+                <span>​© រក្សា​សិទ្ធិ​គ្រប់​យ៉ាង​ដោយ​ Sabay ឆ្នាំ​២០១៦</span><br>
+                <a href="">គោលការណ៍​ភាព​ឯកជន | Privacy Policy</a><br>
+                <span>អាសយដ្ឋាន <br>
+                    អគារ​លេខ ៣០៨ មហាវិថីព្រះមុន្នីវង្ស
+                    សង្កាត់បឹងរាំង ខណ្ឌដូនពេញ
+                </span> -->
+                <div class="image" style="margin-left: 25%;"><img src="../assets/images/reshot-icon-abstract-figure-CANF8R2WXE.svg" alt="logo"></div>
+                <p style="margin-left: 30%;">Home Garden</p>
+            </div>
+            <div class="footer_box1">
+                <!-- <h2>អំពីយើង</h2>
+                <span>
+                    SHOES SHOP យើងខ្ញុំគឺជាហាងដែលមានទុកចិត្តក្នុងការប្រើប្រាស់និង​ឈាន​មុខ​គេ​នៅ​កម្ពុជា។ ព័ត៌មាន​បន្ថែម<br>
+                    ផលិត​ផល​ សេវាកម្ម និង​ ​ធានាគុណភាព។
+                </span> -->
+                <div class="list">
+                  <a href="">Home</a>
+                  <a href="">About us</a>
+                  <a href="">Server</a>
+                  <a href="">Contact</a>
+                  <a href="">Location</a>
+                </div>
+                <nav>
+                    <i class="fab fa-facebook"></i>
+                    <i class="fab fa-telegram"></i>
+                    <i class="fab fa-youtube"></i>
+                    <i class="fab fa-instagram"></i>
+                </nav>
+                <p>Get in touch</p>
+            </div>
+            <div class="footer_box" style="margin-top: 8%;">
+                <h2 style="margin-left: 15%;">Payment</h2>
+                <div class="payment">
+                  <div class="box1"><img src="../assets/images/aba.jpg" alt=""></div>
+                  <div class="box1"><img src="../assets/images/AC.jpg" alt=""></div>
+                  <div class="box1"><img src="../assets/images/Visa.png" alt=""></div>
+                </div>
+                
+            </div>
+        </footer>
 </template>
 
 <style>
