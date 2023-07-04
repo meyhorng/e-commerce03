@@ -5,8 +5,8 @@
         <div class="mains">
           <div class="sub-box1">
             <a href="">Home</a>
-            <a href="">Catagory 1</a>
-            <a href="">Nike</a>
+            <a href="">Product 1</a>
+            <a href="">Rose</a>
           </div>
           <div class="sub-box2">
             <div class="box-left">
@@ -24,14 +24,11 @@
             </div>
             <div class="box-right">
               <div class="sub-box">
-                <p>Nike Dunk Hight<span>105$</span></p>
+                <p>Red Rose<span>10$</span></p>
               <p>Gose Here</p>
               <hr><br>
               <div class="size">Size <span>Size Chart</span></div>
-              <div class="button">
-                <button>Women</button>
-                <button>Men</button>
-              </div>
+              
               <select name="size" id="size">
                 <option value="large">Large</option>
                 <option value="meduiam">Mediuam</option>
@@ -65,9 +62,7 @@
               <div class="button1"><button>Add to Cart</button></div>
               <hr><br>
               <div class="detail">
-                <p>Air Jordan is a line of basketball 
-                  shoes and athletic apparel produced
-                  by American corporation Nike, Inc.
+                <p>
                 </p>
 
               </div>
